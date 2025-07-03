@@ -7,7 +7,7 @@ A visual DAG (Directed Acyclic Graph) builder that allows users to create, edit,
 ## 🔗 Live Demo
 
 **🚀 Hosted on Vercel**  
-pipeline-8h3fpbpez-aishwaryayadav100-gmailcoms-projects.vercel.app
+https://pipeline-8h3fpbpez-aishwaryayadav100-gmailcoms-projects.vercel.app/
 
 📺 **Demo Video (Screen Recording):**  
 https://drive.google.com/file/d/1gTnc80C2yDZk5QqewL3Bv3qsOEV33aeI/view?usp=sharing
