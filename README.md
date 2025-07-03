@@ -13,7 +13,9 @@ pipeline-8h3fpbpez-aishwaryayadav100-gmailcoms-projects.vercel.app
 https://drive.google.com/file/d/1gTnc80C2yDZk5QqewL3Bv3qsOEV33aeI/view?usp=sharing
 
 🖼️ **Screenshots:**
+
 conditions satisfied:
+
 | Rule # | Condition               | ✅ Checked                          
 | ------ | ----------------------- | ---------------------------------- 
 | 1️⃣    | At least 2 nodes        | ✅                                  
