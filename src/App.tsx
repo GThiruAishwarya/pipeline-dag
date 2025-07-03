@@ -62,7 +62,7 @@ const App: React.FC = () => {
   }, [nodes, edges]);
 
   return (
-    <ReactFlowProvider>
+    <>
       <div className="controls-panel">
         <ControlsPanel onAddNode={addNode} onAutoLayout={() => {
           const layouted = autoLayout(nodes, edges);
@@ -87,7 +87,7 @@ const App: React.FC = () => {
         </ReactFlow>
       </div>
       <JSONPreview nodes={nodes} edges={edges} />
-    </ReactFlowProvider>
+    </>
   );
 };
 
